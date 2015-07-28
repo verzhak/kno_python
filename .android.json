@@ -1,0 +1,1 @@
+{"layout": "internal", "orientation": "landscape", "package": "com.amv.xvs0", "include_pil": false, "name": "X vs. O", "icon_name": "X vs. O", "version": "1.0", "permissions": ["INTERNET", "VIBRATE"], "include_sqlite": false, "numeric_version": "100"}
